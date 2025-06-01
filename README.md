@@ -26,12 +26,7 @@ CrowdGuard is a real-time face detection and crowd monitoring system designed fo
 
 ---
 
-## Usage
 
-1. Run the Python script:
-
-```bash
-python examples/test.py
 
 ## System Architecture
 
