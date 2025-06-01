@@ -30,7 +30,7 @@ CrowdGuard is a real-time face detection and crowd monitoring system designed fo
 
 ## System Architecture
 
-![CrowdGuard reference Architecture](CrowdGuard/Crowd Guard reference architecture.png)
+![CrowdGuard reference Architecture](Crowd%20Guard%20reference%20architecture.png)
 
 ## Setup
 
