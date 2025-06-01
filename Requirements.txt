@@ -1,0 +1,7 @@
+opencv-python
+mtcnn
+numpy
+pandas
+matplotlib
+scikit-learn
+pyserial
