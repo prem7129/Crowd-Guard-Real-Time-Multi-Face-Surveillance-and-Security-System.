@@ -26,10 +26,6 @@ CrowdGuard is a real-time face detection and crowd monitoring system designed fo
 
 ---
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 11a3acd4a277cde99f422a137afdaae4491d2921
 
 ## System Architecture
 
